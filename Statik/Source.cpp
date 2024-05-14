@@ -25,3 +25,5 @@ public:
 	}
 
 };
+
+int mahasiswa::nim = 222;
