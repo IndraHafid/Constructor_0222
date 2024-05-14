@@ -38,7 +38,7 @@ public:
         cout << "Nama =" << nama << endl;
         cout << endl;
 
-    };
+    }
 };
 
 
