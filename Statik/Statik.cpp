@@ -14,6 +14,8 @@ public:
 
     void setID();
 
+    void printAll();
+
 };
 
 int main()
