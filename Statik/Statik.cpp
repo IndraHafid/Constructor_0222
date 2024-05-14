@@ -45,7 +45,11 @@ int main()
     mahasiswa mhs3("Andi Kurniawan");
     mahasiswa mhs4("Joko Purbo");
 
- 
+    mhs1.printAll();
+    mhs2.printAll();
+    mhs3.printAll();
+    mhs4.printAll();
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
